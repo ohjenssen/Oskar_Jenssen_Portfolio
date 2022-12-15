@@ -10781,4 +10781,8 @@ body {
   max-width: 1000px;
 }
 
+header nav .container-fluid, header nav .container-sm, header nav .container-md, header nav .container-lg, header nav .container-xl, header nav .container-xxl {
+  max-width: 1000px;
+}
+
 /*# sourceMappingURL=styles.css.map */
